@@ -22,7 +22,7 @@ PLATFORM_LINUX = 'Linux'
 APPS_DIR = 'applications'
 
 # Default Mackup backup path where it stores its files in Dropbox
-MACKUP_BACKUP_PATH = 'Mackup'
+MACKUP_BACKUP_PATH = 'MacOS'
 
 # Mackup config file
 MACKUP_CONFIG_FILE = '.mackup.cfg'
